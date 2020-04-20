@@ -1,6 +1,6 @@
-# deepracer
+# Deepracer
 
-Using Deep Learning to control a race vechicle.
+Using Deep Learning to control a race vehicle.
 
 Currently using:
  
